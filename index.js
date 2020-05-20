@@ -7,4 +7,4 @@ let random = Math.floor(random);
 
 let mod = 4 % 32;
 
-let Math.max(1, 2, 3, 4, 20);
+Math.max(1, 2, 3, 4, 20);
