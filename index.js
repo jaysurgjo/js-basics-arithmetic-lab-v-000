@@ -1,2 +1,4 @@
 // Write your code here
-multiply = 32*2
+let var1 = 32
+let var2 = 2
+multiply = var1*var2
