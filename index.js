@@ -1,3 +1,2 @@
 // Write your code here
-32*2{
-}
+32*2
